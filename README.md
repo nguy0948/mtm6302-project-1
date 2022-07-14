@@ -1,1 +1,3 @@
-# mtm6302-project-1
+Student Name: Sandra Nguyen
+<br>
+Student Number : 041023867
